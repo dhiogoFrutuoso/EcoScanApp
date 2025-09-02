@@ -3,4818 +3,3997 @@
     "carbono": "6 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "450 anos"
+    "decomposicao": "450 anos",
+    "formas_de_reutilizacao": "Artesanato, recipientes e brinquedos."
   },
   "papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho, origami, compostagem."
   },
   "vidro": {
     "carbono": "0.85 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4000 anos"
+    "decomposicao": "4000 anos",
+    "formas_de_reutilizacao": "Reuso decorativo, vasos e potes de armazenamento."
   },
   "metal": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 500 anos"
+    "decomposicao": "200 a 500 anos",
+    "formas_de_reutilizacao": "Recipientes, arte, e uso em jardim."
   },
   "casca de banana": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 10 dias"
+    "decomposicao": "2 a 10 dias",
+    "formas_de_reutilizacao": "Adubo, compostagem."
   },
   "garrafa pet": {
     "carbono": "3.4 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 a 500 anos"
+    "decomposicao": "400 a 500 anos",
+    "formas_de_reutilizacao": "Vasos, brinquedos e artesanato."
   },
   "aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato, limpeza e organização."
   },
   "tecido de algodao": {
     "carbono": "3.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "1 a 5 meses"
+    "decomposicao": "1 a 5 meses",
+    "formas_de_reutilizacao": "Panos de limpeza, ecobags e patchwork."
   },
   "isopor": {
     "carbono": "5.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Isolamento, artesanato e flutuadores."
   },
   "pilha alcalina": {
     "carbono": "1.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 500 anos"
+    "decomposicao": "100 a 500 anos",
+    "formas_de_reutilizacao": "Descarte em local especializado."
   },
   "pneu de borracha": {
     "carbono": "7 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "600 anos ou mais"
+    "decomposicao": "600 anos ou mais",
+    "formas_de_reutilizacao": "Vasos, balanços e pavimentação."
   },
   "papelao": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Caixas organizadoras, artesanato e protetor de solo."
   },
   "restos de comida": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "algumas semanas"
+    "decomposicao": "algumas semanas",
+    "formas_de_reutilizacao": "Adubo natural e compostagem."
   },
   "madeira nao tratada": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "10 a 15 anos"
+    "decomposicao": "10 a 15 anos",
+    "formas_de_reutilizacao": "Artesanato, lenha e móveis."
   },
   "saco plastico": {
     "carbono": "3.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "10 a 20 anos"
+    "decomposicao": "10 a 20 anos",
+    "formas_de_reutilizacao": "Reuso para lixo e proteção de objetos."
   },
   "lampada incandescente": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 anos"
+    "decomposicao": "100 anos",
+    "formas_de_reutilizacao": "Decoração, vasos e terrários."
   },
   "borra de cafe": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Adubo, esfoliante e repelente."
   },
   "casca de ovo": {
     "carbono": "0.05 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
-  },
-  "jornal": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "6 semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Adubo, repelente e artesanato."
   },
   "caixa de leite": {
     "carbono": "3.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 150 anos"
+    "decomposicao": "100 a 150 anos",
+    "formas_de_reutilizacao": "Carteira, porta-canetas e isolamento térmico."
   },
   "lata de aco": {
     "carbono": "2.1 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos, vasos e artesanato."
   },
   "tecido de la": {
     "carbono": "4.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "3 a 4 anos"
+    "decomposicao": "3 a 4 anos",
+    "formas_de_reutilizacao": "Roupas, enchimento de almofadas e artesanato."
   },
   "espuma de poliuretano": {
     "carbono": "8 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Enchimento, isolamento e flutuadores."
   },
   "fralda descartavel": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "450 anos"
+    "decomposicao": "450 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "cigarro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 anos"
+    "decomposicao": "2 a 5 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "pote de iogurte": {
     "carbono": "3.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "500 a 1.000 anos",
+    "formas_de_reutilizacao": "Vasos, potes de tempero e artesanato infantil."
   },
   "escova de dente": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Limpeza de rejuntes, cantos e artesanato."
   },
   "cabo usb": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Doação ou reciclagem eletrônica."
   },
   "pente de plastico": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Organizadores, brinquedos e artesanato."
   },
   "esponja de cozinha": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "200 anos"
+    "decomposicao": "200 anos",
+    "formas_de_reutilizacao": "Limpeza de sapatos e proteção de objetos."
   },
   "pilha de litio": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "filme plastico": {
     "carbono": "4 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Proteção e artesanato."
   },
   "papel de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Afiar tesouras, limpar panelas e proteção de alimentos."
   },
   "saco de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 mes"
+    "decomposicao": "1 mes",
+    "formas_de_reutilizacao": "Sacos de lixo, embalagem de presente e artesanato."
   },
   "chiclete": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "5 anos"
+    "decomposicao": "5 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "sacola de tecido": {
     "carbono": "3.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "1 a 5 meses"
-  },
-  "vidro de janela": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de vidro": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "1 a 5 meses",
+    "formas_de_reutilizacao": "Sacola de compras e bolsas."
   },
   "folhas de arvore": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 semanas"
+    "decomposicao": "6 semanas",
+    "formas_de_reutilizacao": "Adubo, compostagem e substrato."
   },
   "galhos de arvore": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "5 a 10 anos"
+    "decomposicao": "5 a 10 anos",
+    "formas_de_reutilizacao": "Lenha, artesanato e cercas."
   },
   "roupas de poliester": {
     "carbono": "6.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "20 a 200 anos"
+    "decomposicao": "20 a 200 anos",
+    "formas_de_reutilizacao": "Doação e enchimento de almofadas."
   },
   "caixa de pizza": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Artesanato, caixas organizadoras e compostagem (sem gordura)."
   },
   "restos de vegetais": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Adubo, compostagem e caldo de legumes."
   },
   "sola de sapato": {
     "carbono": "6 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "25 a 80 anos"
+    "decomposicao": "25 a 80 anos",
+    "formas_de_reutilizacao": "Doação para conserto, limpeza e artesanato."
   },
   "saco de lixo": {
     "carbono": "3.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "10 a 20 anos"
-  },
-  "tampa de metal": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "10 a 20 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "esponja vegetal": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem e bucha de banho."
   },
   "grampo de cabelo": {
     "carbono": "2.1 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato e organizador de fios."
   },
   "capsula de cafe": {
     "carbono": "0.03 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "200 a 500 anos"
+    "decomposicao": "200 a 500 anos",
+    "formas_de_reutilizacao": "Vasos para mudas e artesanato."
   },
   "bituca de cigarro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "5 a 10 anos"
+    "decomposicao": "5 a 10 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "luva de latex": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "ate 5 anos"
+    "decomposicao": "ate 5 anos",
+    "formas_de_reutilizacao": "Reciclagem especializada."
   },
   "maco de cigarro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "1 a 5 anos"
+    "decomposicao": "1 a 5 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "cartucho de impressora": {
     "carbono": "8 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Remanufatura e reciclagem."
   },
   "chip de computador": {
     "carbono": "30 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Doação e reciclagem eletrônica."
   },
   "sapato de couro": {
     "carbono": "14 kg CO₂/par",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "25 a 40 anos"
+    "decomposicao": "25 a 40 anos",
+    "formas_de_reutilizacao": "Doação, reforma e artesanato."
   },
   "balao de festa": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "6 meses a 4 anos"
+    "decomposicao": "6 meses a 4 anos",
+    "formas_de_reutilizacao": "Artesanato, brinquedos e decoração."
   },
   "escova de cabelo": {
     "carbono": "3.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Limpeza de objetos e artesanato."
   },
   "lamina de barbear": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem de metal."
   },
   "rolo de papel higienico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 meses"
+    "decomposicao": "2 meses",
+    "formas_de_reutilizacao": "Artesanato infantil e organizador de cabos."
   },
   "escova sanitaria": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "fio dental": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Limpeza de objetos pequenos."
   },
   "lente de contato": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 100 anos"
+    "decomposicao": "mais de 100 anos",
+    "formas_de_reutilizacao": "Reciclagem especializada."
   },
   "rolha de cortica": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "1 a 3 anos"
+    "decomposicao": "1 a 3 anos",
+    "formas_de_reutilizacao": "Artesanato e isolamento."
   },
   "cinto de seguranca": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Bolsas e projetos de costura."
   },
   "bola de tenis": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Brinquedos para animais e reparos em móveis."
   },
   "fita cassete": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e decoração."
   },
   "cd": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Móbiles e decoração."
   },
   "lata de tinta": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem de metal."
   },
   "esponja de banho": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Limpeza de objetos."
   },
   "pincel de maquiagem": {
     "carbono": "0.03 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Pincel para artesanato ou limpeza."
   },
   "corda de nylon": {
     "carbono": "5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "30 a 40 anos"
+    "decomposicao": "30 a 40 anos",
+    "formas_de_reutilizacao": "Artesanato, cestos e amarrações."
   },
   "capacete de seguranca": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "bomba de bicicleta": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Reforma e reuso."
   },
   "manta de la": {
     "carbono": "6 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "1 a 5 anos"
+    "decomposicao": "1 a 5 anos",
+    "formas_de_reutilizacao": "Cobertor para animais e enchimento de almofadas."
   },
   "cano de pvc": {
     "carbono": "2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "500 a 1.000 anos",
+    "formas_de_reutilizacao": "Horta vertical e suporte de objetos."
   },
   "pote de vidro de azeitona": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso para geleia, temperos ou vasos."
   },
   "copo de papel": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 meses"
+    "decomposicao": "2 a 5 meses",
+    "formas_de_reutilizacao": "Artesanato infantil e vaso para mudas."
   },
   "caixa de remedio": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "pote de vidro de geleia": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "sacola de papelao": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de ovo": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "3 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Caixa organizadora e embalagem de presentes."
   },
   "rede de pesca": {
     "carbono": "4 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "600 anos"
+    "decomposicao": "600 anos",
+    "formas_de_reutilizacao": "Artesanato, bolsas e redes de descanso."
   },
   "saco de cimento": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 anos"
+    "decomposicao": "100 anos",
+    "formas_de_reutilizacao": "Reciclagem de materiais."
   },
   "tampinha de garrafa": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e mosaicos."
   },
   "tampinha de lata": {
     "carbono": "0.002 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato, mosaicos e chaveiros."
   },
   "placa de isopor": {
     "carbono": "5.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Isolamento, artesanato e flutuadores."
   },
   "esponja de metal": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Limpeza de grelhas e remoção de ferrugem."
   },
   "prato de ceramica": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Mosaico e decoração."
   },
   "caneta esferografica": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 anos"
+    "decomposicao": "100 anos",
+    "formas_de_reutilizacao": "Doação e coleção."
   },
   "sapatilha de bale": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "10 a 50 anos"
+    "decomposicao": "10 a 50 anos",
+    "formas_de_reutilizacao": "Doação e quadros de decoração."
   },
   "cartao de credito": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Ferramenta para artesanato."
   },
   "garfo de plastico": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e ferramenta de jardinagem."
   },
   "tabua de madeira": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "5 a 10 anos"
-  },
-  "pote de margarina": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "5 a 10 anos",
+    "formas_de_reutilizacao": "Tábuas, peças de artesanato e prateleiras."
   },
   "fita adesiva": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "embalagem de shampoo": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "embalagem de condicionador": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Vasos e porta-trecos."
   },
   "colher de pau": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 5 anos"
+    "decomposicao": "2 a 5 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "prato descartavel": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Artesanato e bandeja para tintas."
   },
   "seringa descartavel": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Descarte em local adequado."
   },
   "curativo adesivo": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 anos"
+    "decomposicao": "50 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "algodao": {
     "carbono": "3.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 5 meses"
+    "decomposicao": "1 a 5 meses",
+    "formas_de_reutilizacao": "Compostagem, limpeza e artesanato."
   },
   "fita metrica": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "bola de gude": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "guarda-sol": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 100 anos"
+    "decomposicao": "mais de 100 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "pipa": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "1 a 3 anos"
+    "decomposicao": "1 a 3 anos",
+    "formas_de_reutilizacao": "Reparo e artesanato."
   },
   "tela de pintura": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 10 anos"
+    "decomposicao": "2 a 10 anos",
+    "formas_de_reutilizacao": "Reuso para novas pinturas e decoração."
   },
   "tinta a oleo": {
     "carbono": "1 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "pote de cola": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Artesanato e organizador."
   },
   "palito de churrasco": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "fosforo": {
     "carbono": "0.001 kg CO₂/caixa",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "1 ano"
+    "decomposicao": "1 ano",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "esponja de aco": {
     "carbono": "2.1 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Limpeza de grelhas e remoção de ferrugem."
   },
   "filtro de cafe": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 semanas"
+    "decomposicao": "2 a 6 semanas",
+    "formas_de_reutilizacao": "Compostagem e artesanato."
   },
   "xicara de porcelana": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Decoração e vasos."
   },
   "copo de vidro quebrado": {
     "carbono": "0.85 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Mosaicos e artesanato."
   },
   "lapis de cor": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 anos"
+    "decomposicao": "2 a 5 anos",
+    "formas_de_reutilizacao": "Doação e artesanato."
   },
   "borracha de apagar": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
-  },
-  "cartela de ovo de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "embalagem de salgadinho": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 100 anos"
-  },
-  "palha de aco": {
-    "carbono": "2.1 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "cordao de sapato": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "1 a 5 anos"
-  },
-  "bandeja de isopor": {
-    "carbono": "5.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 100 anos",
+    "formas_de_reutilizacao": "Artesanato e isolamento."
   },
   "fita adesiva dupla face": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "lata de spray": {
     "carbono": "2.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem de metal."
   },
   "espuma de barbear": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "embalagem de pasta de amendoim": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "cola instantanea": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "saco de carvao": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 a 3 meses"
-  },
-  "embalagem de sabao em po": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "3 a 6 meses"
-  },
-  "potes de requeijao": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
-  },
-  "cesta de plastico": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "caixa de papelao grande": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "1 a 3 meses",
+    "formas_de_reutilizacao": "Saco de lixo e embalagem."
   },
   "tubo de batom": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Porta-jóias e porta-canetas."
   },
   "frasco de perfume": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-retrato de plastico": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Decoração e vasos para suculentas."
   },
   "cabide de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Doação e artesanato."
   },
   "bola de futebol": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Doação e brinquedo para animais."
   },
   "fio de cabelo": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 anos"
+    "decomposicao": "2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "ossos de frango": {
     "carbono": "0.01 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "5 a 10 anos"
+    "decomposicao": "5 a 10 anos",
+    "formas_de_reutilizacao": "Compostagem e caldo."
   },
   "casca de batata": {
     "carbono": "0.05 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "saco de batata frita": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e descarte especializado."
   },
   "rede de volei": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 anos"
+    "decomposicao": "50 anos",
+    "formas_de_reutilizacao": "Doação e reparo."
   },
   "chaveiro de metal": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "caixa de cereais": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "tubo de papelao": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Organizadores de cabos e artesanato."
   },
-  "tampa de plastico de garrafa": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "folhas de caderno": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "6 semanas"
-  },
-  "potes de vidro de conserva": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+  "folhas de alface": {
+    "carbono": "0.01 kg CO₂/kg",
+    "organico": true,
+    "reciclavel": false,
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "luva de borracha": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "10 a 20 anos"
+    "decomposicao": "10 a 20 anos",
+    "formas_de_reutilizacao": "Reuso para limpeza."
   },
   "frasco de desodorante spray": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem de metal."
   },
   "embalagem de pasta de dente": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "frasco de vidro de perfume": {
-    "carbono": "0.85 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e organizador."
   },
   "lampada fluorescente": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
-  },
-  "pote de maionese de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "rolha de metal": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Descarte em local apropriado."
   },
   "escova de cabelo de madeira": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "10 a 20 anos"
-  },
-  "caixa de fosforos": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "6 meses"
+    "decomposicao": "10 a 20 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "espuma de estofado": {
     "carbono": "8 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "1.000 anos"
-  },
-  "filme plastico de pvc": {
-    "carbono": "3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "1.000 anos",
+    "formas_de_reutilizacao": "Enchimento, artesanato e isolamento."
   },
   "camera fotografica": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "cartucho de tinta de caneta": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Doação, conserto e venda."
   },
   "pincel de pintura": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Limpeza de objetos e artesanato."
   },
   "sacola biodegradavel": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses a 2 anos"
-  },
-  "pote de iogurte de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "6 meses a 2 anos",
+    "formas_de_reutilizacao": "Reuso para lixo orgânico."
   },
   "embalagem de creme de leite": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 150 anos"
-  },
-  "tabua de cortar de plastico": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "100 a 150 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "frasco de xarope": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Vasos para mudas e porta-trecos."
   },
   "garrafa termica": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 500 anos"
+    "decomposicao": "100 a 500 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "pneu de bicicleta": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "600 anos"
+    "decomposicao": "600 anos",
+    "formas_de_reutilizacao": "Reparo e artesanato."
   },
   "rolo de papel toalha": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 4 semanas"
-  },
-  "capsula de cafe de plastico": {
-    "carbono": "0.03 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "200 a 500 anos"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Artesanato infantil e organizador."
   },
   "bolsa de couro sintetico": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
-  },
-  "prato de vidro": {
-    "carbono": "0.85 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "anel de metal": {
-    "carbono": "2.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "saco de pao de papel": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 mes"
+    "decomposicao": "1 mes",
+    "formas_de_reutilizacao": "Saco de lixo e embalagem para presentes."
   },
   "lata de sardinha": {
     "carbono": "2.1 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vasos."
   },
   "folha de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Afiar tesouras e limpar panelas."
   },
   "caneta tinteiro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 anos"
-  },
-  "potes de geleia de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "frasco de shampoo de metal": {
-    "carbono": "2.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "vaso de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso como vaso."
   },
   "cadeira de plastico": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "tapete de la": {
-    "carbono": "6 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": true,
-    "decomposicao": "1 a 5 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso, doação e reforma."
   },
   "tijolo": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Construção e decoração de jardim."
   },
   "concreto": {
     "carbono": "0.13 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Construção e decoração."
   },
   "folha de jornal": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "6 semanas"
+    "decomposicao": "6 semanas",
+    "formas_de_reutilizacao": "Embalagem, artesanato e limpeza de vidros."
   },
   "garrafa de agua de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 a 500 anos"
+    "decomposicao": "400 a 500 anos",
+    "formas_de_reutilizacao": "Vasos, brinquedos e artesanato."
   },
   "embalagem de chocolate": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e descarte especializado."
   },
   "saco de batata": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e descarte especializado."
   },
   "rede de basquete": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 anos"
+    "decomposicao": "50 anos",
+    "formas_de_reutilizacao": "Doação e reparo."
   },
   "chave de metal": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e chaveiro."
   },
   "caixa de sapato": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Caixa organizadora e artesanato."
   },
   "tubo de pasta de dente": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "folhas de alface": {
-    "carbono": "0.01 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "2 semanas"
-  },
-  "potes de iogurte de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
-  },
-  "esponja de celulose": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "maca": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 meses"
+    "decomposicao": "2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pera": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 3 meses"
+    "decomposicao": "1 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "laranja": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "limao": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "morango": {
     "carbono": "0.8 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "uva": {
     "carbono": "0.7 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "abacaxi": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "manga": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "melancia": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "abacate": {
     "carbono": "0.8 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "4 a 6 meses"
+    "decomposicao": "4 a 6 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "kiwi": {
     "carbono": "0.7 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 3 meses"
+    "decomposicao": "1 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cereja": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "framboesa": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 semana"
+    "decomposicao": "1 semana",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "amora": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 semana"
+    "decomposicao": "1 semana",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "figo": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "coco": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "3 a 5 anos"
+    "decomposicao": "3 a 5 anos",
+    "formas_de_reutilizacao": "Artesanato e decoração."
   },
   "pessego": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "nectarina": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "ameixa": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cenoura": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "batata": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cebola": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "alho": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "3 a 6 meses"
+    "decomposicao": "3 a 6 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "brocolis": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "couve-flor": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "espinafre": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 semana"
+    "decomposicao": "1 semana",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "tomate": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pepino": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "abobora": {
     "carbono": "0.15 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "milho": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "ervilha": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "feijao verde": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "rabanete": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pimentao": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "aipo": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "repolho": {
     "carbono": "0.15 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "arroz": {
     "carbono": "3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "feijao": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "lentilha": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "grao de bico": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "quinoa": {
     "carbono": "0.8 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "aveia": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cevada": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "trigo": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "milho em grao": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "manjericao": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "coentro": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "salsa": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "alecrim": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "tomilho": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "canela": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses a 1 ano"
+    "decomposicao": "6 meses a 1 ano",
+    "formas_de_reutilizacao": "Adubo e compostagem."
   },
   "gengibre": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 3 meses"
+    "decomposicao": "1 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "noz-moscada": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses a 1 ano"
+    "decomposicao": "6 meses a 1 ano",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pimenta-do-reino": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses a 1 ano"
+    "decomposicao": "6 meses a 1 ano",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "casca de camarao": {
     "carbono": "0.05 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem e ração animal."
   },
   "pele de peixe": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "casca de ostra": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Adubo e artesanato."
   },
   "restos de carne": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "algumas semanas"
+    "decomposicao": "algumas semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "ossos de porco": {
     "carbono": "0.05 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "5 a 10 anos"
+    "decomposicao": "5 a 10 anos",
+    "formas_de_reutilizacao": "Adubo."
   },
   "amendoa": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "castanha-do-para": {
     "carbono": "0.6 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "nozes": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "semente de girassol": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "semente de abobora": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "semente de chia": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pao": {
     "carbono": "1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "casca de pao": {
     "carbono": "1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "casca de cebola": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Adubo e artesanato."
   },
   "casca de alho": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "3 a 6 meses"
+    "decomposicao": "3 a 6 meses",
+    "formas_de_reutilizacao": "Adubo e compostagem."
   },
   "bagaco de cana": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Adubo e compostagem."
   },
   "folha de bananeira": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Embalagem de alimentos e artesanato."
   },
   "palha": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Compostagem e cama para animais."
   },
   "serragem": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Compostagem e absorvente de óleos."
   },
   "suco natural": {
     "carbono": "0.2 kg CO₂/litro",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "leite (lixo organico)": {
     "carbono": "0.2 kg CO₂/litro",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "vinho": {
     "carbono": "0.5 kg CO₂/garrafa",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "poucas semanas"
+    "decomposicao": "poucas semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cafe": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 5 semanas"
+    "decomposicao": "2 a 5 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cha": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 5 semanas"
-  },
-  "casca de melao": {
-    "carbono": "0.1 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "3 a 6 meses"
+    "decomposicao": "2 a 5 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "abobrinha": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "berinjela": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "cogumelo": {
     "carbono": "0.3 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "rabanete": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
-  },
-  "cevadinha": {
-    "carbono": "0.4 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pistache": {
     "carbono": "0.7 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "castanha de caju": {
     "carbono": "0.7 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "semente de linhaca": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "seda": {
     "carbono": "3 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "1 a 5 anos"
+    "decomposicao": "1 a 5 anos",
+    "formas_de_reutilizacao": "Artesanato e doação."
   },
   "linho": {
     "carbono": "2 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Panos de limpeza e artesanato."
   },
   "juta": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": true,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Bolsas, tapetes e artesanato."
   },
   "casca de coco": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "3 a 5 anos"
+    "decomposicao": "3 a 5 anos",
+    "formas_de_reutilizacao": "Vasos, artesanato e decoração."
   },
   "folha de cha": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 3 meses"
+    "decomposicao": "1 a 3 meses",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "casca de amendoim": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 meses"
+    "decomposicao": "6 meses",
+    "formas_de_reutilizacao": "Adubo e enchimento de vasos."
   },
   "casca de noz": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Artesanato e decoração."
   },
   "talo de brocolis": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
-  },
-  "milho de pipoca": {
-    "carbono": "0.2 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
-  },
-  "folha de louro": {
-    "carbono": "0.01 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "1 ano"
-  },
-  "casca de melao": {
-    "carbono": "0.1 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "3 a 6 meses"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Caldo e compostagem."
   },
   "caroco de abacate": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Cultivo de nova planta e artesanato."
   },
   "caroco de pessego": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Plantio e artesanato."
   },
   "talo de couve": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Caldo e compostagem."
   },
   "casca de cenoura": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "folha de coentro": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "casca de maça": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 meses"
+    "decomposicao": "2 meses",
+    "formas_de_reutilizacao": "Compostagem e chá."
   },
   "galhos de roseira": {
     "carbono": "0.4 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Compostagem e artesanato."
   },
   "casca de batata-doce": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem e adubo."
   },
   "sabugo de milho": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
-  },
-  "folhas de espinafre": {
-    "carbono": "0.3 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "1 semana"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Compostagem e lenha."
   },
   "casca de uva": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem e geleias."
   },
   "sementes de melancia": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Plantio."
   },
   "restos de pao": {
     "carbono": "1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
-  },
-  "folhas de alface": {
-    "carbono": "0.01 kg CO₂/kg",
-    "organico": true,
-    "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Torradas e compostagem."
   },
   "casca de pepino": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Compostagem e máscara facial."
   },
   "casca de tomate": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 a 3 semanas"
+    "decomposicao": "2 a 3 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "casca de abacaxi": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "6 a 12 meses"
+    "decomposicao": "6 a 12 meses",
+    "formas_de_reutilizacao": "Suco e compostagem."
   },
   "talos de couve-flor": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "2 semanas"
+    "decomposicao": "2 semanas",
+    "formas_de_reutilizacao": "Caldo e compostagem."
   },
   "folhas de rabanete": {
     "carbono": "0.1 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 semanas"
+    "decomposicao": "1 a 2 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "folhas de repolho": {
     "carbono": "0.15 kg CO₂/kg",
     "organico": true,
     "reciclavel": false,
-    "decomposicao": "1 a 2 meses"
+    "decomposicao": "1 a 2 meses",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "pote de acucar": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para geleia ou como porta-trecos."
   },
   "saleiro de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para temperos."
   },
   "funil de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "forma de gelo": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso ou bandeja de tinta."
   },
   "colher de medida": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "espatula de silicone": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "lixeira de plastico": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "rodo de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reparo e reuso."
   },
   "balde de plastico": {
     "carbono": "0.8 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e vaso de plantas."
   },
   "sacola de plastico de compra": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso como saco de lixo."
   },
   "vassoura de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reparo e reuso."
   },
   "escorredor de prato de plastico": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "fichario de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "caneta marca-texto": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 anos"
+    "decomposicao": "100 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "regua de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "lapiseira": {
     "carbono": "0.03 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "capa de caderno de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "grampeador de plastico": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "post-it": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Reuso para anotações rápidas."
   },
   "placa de circuito impresso": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reciclagem de lixo eletrônico."
   },
   "capa de celular": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "cabo hdmi": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "caixa de som de plastico": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso, doação e conserto."
   },
   "controle remoto de tv": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "capa de teclado": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "frasco de alcool em gel": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para outros líquidos."
   },
   "seringa de plastico": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Descarte em local adequado."
   },
   "embalagem de remedio": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "frasco de soro fisiologico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso ou como vaso para mudas."
   },
   "escova de cabelo de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "pente de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para limpeza."
   },
   "boneca de plastico": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Doação e reparo."
   },
   "pecas de lego": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "bola de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "balde de praia de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e vaso de plantas."
   },
   "peixe de brinquedo": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "carrinho de plastico": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "luva de plastico": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "10 a 20 anos"
+    "decomposicao": "10 a 20 anos",
+    "formas_de_reutilizacao": "Reuso para limpeza."
   },
   "fita isolante": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "cano de plastico": {
     "carbono": "2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "500 a 1.000 anos",
+    "formas_de_reutilizacao": "Horta vertical e suporte."
   },
   "embalagem de parafuso": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Organizador."
   },
   "anel de plastico": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "pulseira de plastico": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "capa de chuva": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "embalagem de bolacha": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e descarte especializado."
   },
   "embalagem de macarrao": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "embalagem de pao de forma": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
-  },
-  "saco de pao de forma": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso ou como saco de lixo."
   },
   "pote de sorvete de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reuso para alimentos ou vasos."
   },
   "caixa de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Organizador e caixa de ferramentas."
   },
   "bomba de aquario": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "aquario de plastico": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e terrário."
   },
   "cofrinho de plastico": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "cinto de plastico": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "tampinha de garrafa de plastico": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "garrafa de agua de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 a 500 anos"
-  },
-  "copo de plastico": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "prato de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "bandeja de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "talher de plastico": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "pote de margarina": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
-  },
-  "balao de festa": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "6 meses a 4 anos"
-  },
-  "pote de iogurte": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e ferramenta de jardinagem."
   },
   "recipiente de plastico": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "embalagem de sabao em po": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "3 a 6 meses"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Armazenamento de alimentos e porta-trecos."
   },
   "embalagem de detergente": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para outros líquidos."
   },
   "embalagem de amaciante": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "saco de lixo": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "10 a 20 anos"
-  },
-  "potes de geleia de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "potes de geleia de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "cesto de lixo de plastico": {
-    "carbono": "1.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "capa de chuva de plastico": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "cabide de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "porta-retrato de plastico": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "bandeja de isopor": {
-    "carbono": "5.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
-  },
-  "prancha de bodyboard": {
-    "carbono": "4 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "500 anos"
-  },
-  "bola de futebol": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "escova de dente": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "fio dental": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "rede de pesca": {
-    "carbono": "4 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "600 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para outros líquidos."
   },
   "chaveiro de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "canudo de plastico": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "200 a 400 anos"
-  },
-  "saco de batata frita": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "capsula de cafe de plastico": {
-    "carbono": "0.03 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "200 a 500 anos"
-  },
-  "embalagem de salgadinho": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "lacre de plastico": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato e chaveiro."
   },
-  "bóia de piscina": {
+  "boia de piscina": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "prato descartavel de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Artesanato e bandeja para tintas."
   },
   "copo descartavel de plastico": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Vaso para mudas e artesanato infantil."
   },
   "peneira de plastico": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "lata de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "recipiente de plastico para comida": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "filme de pvc": {
-    "carbono": "3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "pote de sorvete": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "caixa de plastico de ferramentas": {
-    "carbono": "1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "cinto de plastico": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vasos."
   },
   "moeda de plastico": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "chave de plastico": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "cartao de plastico": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "garrafa de refrigerante de plastico": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 a 500 anos"
-  },
-  "bola de plastico de piscina": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "esponja de banho de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Ferramenta para artesanato."
   },
   "saco de plastico de embalagem": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
-  },
-  "filme de embalagem de plastico": {
-    "carbono": "4 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso como saco de lixo."
   },
   "caixa de plastico de joias": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "porta-escova de dente de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso e porta-canetas."
   },
   "porta-sabonete de plastico": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "capa de disco de vinil": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "disco de vinil": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "500 anos"
+    "decomposicao": "500 anos",
+    "formas_de_reutilizacao": "Decoração e artesanato."
   },
   "pote de molho de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "embalagem de iogurte de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
-  },
-  "pote de doce de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para alimentos e porta-trecos."
   },
   "recipiente de plastico para salada": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para alimentos."
   },
   "embalagem de queijo": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "plastico bolha": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Proteção de objetos e artesanato."
   },
   "pote de acrilico": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
-  },
-  "caixa de plastico para ferramentas": {
-    "carbono": "1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reuso para alimentos e porta-trecos."
   },
   "pincel de plastico": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso para artesanato."
   },
   "corda de plastico": {
     "carbono": "0.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 anos"
+    "decomposicao": "50 anos",
+    "formas_de_reutilizacao": "Artesanato e amarrações."
   },
   "rede de plastico": {
     "carbono": "1 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "600 anos"
+    "decomposicao": "600 anos",
+    "formas_de_reutilizacao": "Artesanato e reuso."
   },
   "tubo de plastico": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
-  },
-  "frasco de shampoo de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "frasco de condicionador de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "colher de plastico": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "faca de plastico": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "garfo de plastico": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "500 a 1.000 anos",
+    "formas_de_reutilizacao": "Horta vertical e suporte."
   },
   "vaso de flores de plastico": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "potes de geleia de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
-  },
-  "potes de requeijao": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 a 1.000 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "caixa de plastico de sapato": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "pente de plastico": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "capa de livro de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "carcaça de controle remoto": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "400 anos"
-  },
-  "balde de plastico de brinquedo": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "400 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Organizador."
   },
   "lixeira de plastico com pedal": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "400 anos"
-  },
-  "prancha de bodyboard de plastico": {
-    "carbono": "4 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "500 anos"
-  },
-  "pote de sorvete de plastico": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "500 anos"
+    "decomposicao": "400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "bolsa de plastico": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso e doação."
   },
   "papel sulfite": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho e origami."
   },
   "bloco de notas": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho e embrulhos."
   },
   "cartao de visita": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho."
   },
   "envelope de carta": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho e artesanato."
   },
   "pasta de arquivo de papelao": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Reuso e organizador."
   },
   "cartolina": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Artesanato e sinalização."
   },
   "papel crepom": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "fichas pautadas": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho."
   },
   "folder": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "folheto": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho e artesanato."
   },
   "flyer": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho."
   },
   "livro": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "10 a 50 anos"
+    "decomposicao": "10 a 50 anos",
+    "formas_de_reutilizacao": "Doação e artesanato."
   },
   "revista": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Artesanato e colagens."
   },
   "guardanapo de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "toalha de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "caixa de pizza sem gordura": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de biscoito de papelao": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de cereal": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de pasta de dente": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de perfume de papelao": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Organizador e artesanato."
   },
   "papel de presente": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "caixa de presente": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Reuso e organizador."
   },
   "papel celofane": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "papel contact": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "papel de parede": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Revestimento de caixas e artesanato."
   },
   "rolo de papel de parede": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Artesanato e reuso."
   },
   "caixa de transporte": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de frutas": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de verduras": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de peixe": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de carne": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de produtos congelados": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Reuso para mudanças e organizador."
   },
   "filtro de cigarro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "1 a 5 anos"
+    "decomposicao": "1 a 5 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "papel de embrulho": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "sacola de papel kraft": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Reuso e saco de lixo."
   },
   "papel de seda": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "caixa de lenços de papel": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Organizador e porta-trecos."
   },
   "etiqueta de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Artesanato."
   },
-  "post-it": {
+  "papel higienico": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
-  },
-  "folha de papel alumínio": {
-    "carbono": "9 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
-  },
-  "papel higiênico": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "1 a 4 semanas"
-  },
-  "rolo de papel higiênico": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "tubo de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "1 a 4 semanas",
+    "formas_de_reutilizacao": "Descarte em local apropriado."
   },
   "prato de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 meses"
+    "decomposicao": "2 a 5 meses",
+    "formas_de_reutilizacao": "Artesanato e bandeja para tintas."
   },
   "copo de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 meses"
+    "decomposicao": "2 a 5 meses",
+    "formas_de_reutilizacao": "Vaso para mudas e artesanato infantil."
   },
   "bandeja de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 5 meses"
-  },
-  "caixa de sapato": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "jornal velho": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "6 semanas"
-  },
-  "caixa de transporte de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "folha de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "papel de jornal": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "6 semanas"
-  },
-  "saco de papel kraft": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "1 mes"
-  },
-  "caixa de cereal de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de remédio de papel": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de escrita": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de impressora": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de desenho": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "caixa de ovos de papelao": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "3 meses"
-  },
-  "papel de embalagem": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
-  },
-  "pasta de papel": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "folha de papel kraft": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "caixa de papelão para mudança": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "copo de papel descartável": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 5 meses"
-  },
-  "prato de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
-  },
-  "embalagem de bolacha": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "1 a 2 anos"
-  },
-  "embalagem de macarrão": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "tubo de cola de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de sapato de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "papel de parede antigo": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
-  },
-  "sacola de papel de loja": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "1 a 3 meses"
-  },
-  "papel de embrulho de presente": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de filtro": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 semanas"
-  },
-  "tubo de papelão de papel toalha": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de transporte de mercadorias": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "livro de receitas": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "10 a 50 anos"
-  },
-  "capa de livro de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "revistas em quadrinhos": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "1 a 2 anos"
-  },
-  "papel de parede vinílico": {
-    "carbono": "4 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "placa de papelão ondulado": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de mudança": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "papel de desenho técnico": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de fotografia": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
-  },
-  "papel de embalagem de ovo": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "3 meses"
-  },
-  "folha de papel ofício": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "papel de seda para presente": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
-  },
-  "caixa de papelão para pizza": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
-  },
-  "saco de papel para lixo": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "1 a 3 meses"
-  },
-  "caixa de sabão em pó": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "tubo de papelão de embalagem": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de arquivo de papelão": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 5 meses",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "papel de cozinha": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 4 semanas"
+    "decomposicao": "2 a 4 semanas",
+    "formas_de_reutilizacao": "Compostagem."
   },
   "caderno escolar": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Reuso para rascunho e doação."
   },
   "agenda de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "revista de moda": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Artesanato e colagens."
   },
   "catalogo de produtos": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "1 a 2 anos"
+    "decomposicao": "1 a 2 anos",
+    "formas_de_reutilizacao": "Rascunho e artesanato."
   },
   "cartaz de papel": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Projetos escolares e artesanato."
   },
   "papel de parede autoadesivo": {
     "carbono": "4 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Revestimento de caixas e artesanato."
   },
   "embalagem de papel para lanche": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "caixa de papel para doces": {
     "carbono": "1.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 3 meses",
+    "formas_de_reutilizacao": "Organizador e artesanato."
   },
   "papel de carta": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "2 a 6 meses"
-  },
-  "folha de papelão ondulado": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "caixa de papelão para transporte": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "papel de filtro de café": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 6 semanas"
-  },
-  "saco de papel de farinha": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "1 a 3 meses"
-  },
-  "caixa de papelão de embalagem": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
-  },
-  "papel de cera": {
-    "carbono": "1.5 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "2 a 6 meses"
-  },
-  "caixa de papelão de vinho": {
-    "carbono": "1.2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "2 a 3 meses"
+    "decomposicao": "2 a 6 meses",
+    "formas_de_reutilizacao": "Rascunho e artesanato."
   },
   "copo de shot de vidro": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Medidor e porta-velas."
   },
   "copo de cerveja de vidro": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "taca de vinho": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Decoração e reuso."
   },
   "jarra de suco de vidro": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e vaso de flores."
   },
   "pirex": {
     "carbono": "0.2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "porta-retrato de vidro": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "vaso de flores de vidro": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "cinzeiro de vidro": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Decoração e porta-jóias."
   },
   "castical de vidro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "lustre de vidro": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "abajur de vidro": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "parabrisa de carro": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "vidro de box de banheiro": {
     "carbono": "2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "tijolo de vidro": {
     "carbono": "0.85 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso na construção."
   },
   "telha de vidro": {
     "carbono": "0.85 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso na construção."
   },
   "fibra de vidro": {
     "carbono": "1.5 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reuso em reparos."
   },
   "becker": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso em laboratórios."
   },
   "proveta": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso em laboratórios."
   },
   "tubo de ensaio": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso em laboratórios e artesanato."
   },
   "ampola de vidro": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "microscopio (lente)": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Doação e conserto."
   },
   "frasco de esmalte": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "pote de creme facial": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso para outros cremes e porta-trecos."
   },
   "pote de azeite de vidro": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso para azeite ou vasos de flores."
   },
   "pote de conserva de vidro": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso para alimentos e porta-trecos."
   },
   "copo de vidro para whisky": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "prato de vidro": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "tampa de vidro de panela": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "bowl de vidro": {
     "carbono": "0.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-copos de vidro": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "mesa de vidro": {
     "carbono": "10 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "porta de vidro": {
     "carbono": "15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "aquario de vidro": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e terrário."
   },
   "espelho de parede": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "espelho de mao": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "lente de oculos": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "lente de camera": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e conserto."
   },
   "lente de microscopio": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "fibra optica": {
     "carbono": "2 kg CO₂/kg",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
-  },
-  "garrafa de suco de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de leite de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de cerveja": {
-    "carbono": "0.15 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de vinho": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de champanhe": {
-    "carbono": "0.25 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "frasco de laboratorio": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reciclagem de lixo eletrônico."
   },
   "ampulheta": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "bola de natal de vidro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "cinzeiro de vidro de cristal": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "copo de vidro de cristal": {
     "carbono": "0.15 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
-  "bandeja de vidro": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "bola de gude": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-velas de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "frasco de cosmético de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "copo de medida de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "termômetro de vidro": {
+  "termo metro de vidro": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
-  "relógio de vidro": {
+  "relogio de vidro": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "placa de petri": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso em laboratórios e artesanato."
   },
-  "placa de vidro para microscópio": {
+  "placa de vidro para microscopio": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso em laboratórios."
   },
-  "lente de telescópio": {
+  "lente de telescopio": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e conserto."
   },
-  "lente de binóculo": {
+  "lente de binoculo": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e conserto."
   },
-  "frasco de remedio de vidro": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "frasco de injeção": {
+  "frasco de injecao": {
     "carbono": "0.02 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Descarte em local apropriado."
   },
-  "placa de sinalização de vidro": {
-    "carbono": "2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-retrato de vidro duplo": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "vaso de vidro de laboratório": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "copo de vidro para coquetel": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "potes de geleia de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de água de vidro": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "pote de maionese de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "copo de suco de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "copo de leite de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "tampa de vidro": {
+  "vidro de relogio": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-copos de vidro": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-sabonete de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "porta-escova de dente de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "sino de vidro": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "bola de cristal": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "abajur de vidro de mesa": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "janela de carro": {
-    "carbono": "10 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "indefinido"
-  },
-  "janela de casa": {
-    "carbono": "8 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de perfume": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "lente de óculos de sol": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "tela de televisão de tubo": {
-    "carbono": "20 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "indefinido"
-  },
-  "tela de monitor de computador": {
-    "carbono": "15 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "milhares de anos"
-  },
-  "recipiente de vidro de laboratório": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "cubo de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "prato de vidro de mesa": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "copo de vidro com tampa": {
-    "carbono": "0.15 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de azeite de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "frasco de shampoo de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "lâmpada de filamento de vidro": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 anos"
-  },
-  "janela de avião": {
-    "carbono": "10 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "indefinido"
-  },
-  "vidro de relógio": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "tampa de vidro de pote": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "copo de vidro para vela": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "bowl de vidro de cozinha": {
-    "carbono": "0.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso e porta-trecos."
   },
   "recipiente de vidro para bolo": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "frasco de esmalte de unhas": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "vaso de vidro de planta": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "copo de vidro de cha": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de vodka": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de uisque": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "garrafa de licor": {
-    "carbono": "0.15 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "recipiente de vidro para perfume": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "4.000 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "espelho de banheiro": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "janela de carro lateral": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "indefinido"
-  },
-  "vidro de box de banheiro": {
-    "carbono": "2 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "4.000 anos"
-  },
-  "tijolo de vidro": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
-  },
-  "telha de vidro": {
-    "carbono": "0.85 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "4.000 anos"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "panela de pressao": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "panela de inox": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "frigideira de ferro": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "forma de bolo de metal": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "escorredor de macarrao de metal": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e vaso de plantas."
   },
   "faca de cozinha": {
     "carbono": "2.3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e amolar."
   },
   "garfo de inox": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "colher de inox": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "batedor de arame": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "chave inglesa": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "alicate": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "prego de aco": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "parafuso de aco": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "arame": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato e suporte."
   },
   "arame farpado": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Cercas."
   },
   "arame de aco": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato."
   },
   "serra": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "serrote": {
     "carbono": "1.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "machado": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "martelo": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "furadeira (partes metalicas)": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Conserto e reciclagem."
   },
   "tesoura": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e amolar."
   },
   "viga de aco": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso em construção."
   },
   "vergalhao": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso em construção."
   },
   "portao de ferro": {
     "carbono": "50 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reparo e reuso."
   },
   "cerca de arame": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "radiador de carro": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reparo e reciclagem."
   },
   "escapamento de carro": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "freio de carro": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "motor de carro (partes metalicas)": {
     "carbono": "30 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Reciclagem e reparo."
   },
   "moldura de metal": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "lustre de ferro": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reparo e reuso."
   },
   "escultura de metal": {
     "carbono": "5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 500 anos"
+    "decomposicao": "200 a 500 anos",
+    "formas_de_reutilizacao": "Reuso e exposição."
   },
   "sino de metal": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "vaso de metal": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "lata de biscoito": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Pote para biscoitos e porta-trecos."
   },
   "lata de chapa": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e artesanato."
   },
   "lata de atum": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vaso para mudas."
   },
   "componentes eletronicos": {
     "carbono": "10 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reciclagem de lixo eletrônico."
   },
   "dissipador de calor": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "carcaca de computador": {
     "carbono": "5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "disco rigido": {
     "carbono": "3 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Reciclagem de lixo eletrônico."
   },
   "placa de circuito": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Reciclagem de lixo eletrônico."
   },
   "brinco de ouro": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "anel de prata": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "corrente de aco": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "pulseira de metal": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "clip de papel": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "grampo": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "agulha de costura": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "alfinete": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "moeda de 1 real": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso."
   },
   "moeda de 50 centavos": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso."
   },
   "moeda de 10 centavos": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
-  },
-  "lata de sardinha": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "lata de milho": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "arame farpado": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "pote de metal": {
-    "carbono": "0.1 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "caixa de metal": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampa de pote de metal": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "bandeja de metal": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "colher de metal": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "caneca de metal": {
-    "carbono": "0.2 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "chaveiro de metal": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "lata de spray": {
-    "carbono": "2.3 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "chave de metal": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "chapa de metal": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "arame de cobre": {
-    "carbono": "4 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
-  },
-  "arame de alumínio": {
-    "carbono": "9 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
-  },
-  "mola de aco": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "rolamento de esfera": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "parafuso de zinco": {
-    "carbono": "0.001 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "prego de aluminio": {
-    "carbono": "0.001 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
-  },
-  "parafuso de latão": {
-    "carbono": "0.001 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
-  },
-  "porca de metal": {
-    "carbono": "0.001 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso."
   },
   "lata de feijao": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "lata de ervilha": {
-    "carbono": "0.05 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vaso para mudas."
   },
   "lata de milho": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampa de pote de vidro de conserva": {
-    "carbono": "0.01 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampa de garrafa de cerveja": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampa de garrafa de refrigerante": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vaso para mudas."
   },
   "tampa de pote de metal": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato."
+  },
+  "bandeja de metal": {
+    "carbono": "0.2 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "caneca de metal": {
+    "carbono": "0.2 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "chapa de metal": {
+    "carbono": "2.3 kg CO₂/kg",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
+  },
+  "arame de cobre": {
+    "carbono": "4 kg CO₂/kg",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e reuso."
+  },
+  "arame de aluminio": {
+    "carbono": "9 kg CO₂/kg",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e reuso."
+  },
+  "mola de aco": {
+    "carbono": "2.3 kg CO₂/kg",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
+  },
+  "rolamento de esfera": {
+    "carbono": "2.3 kg CO₂/kg",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "parafuso de zinco": {
+    "carbono": "0.001 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "prego de aluminio": {
+    "carbono": "0.001 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "parafuso de latao": {
+    "carbono": "0.001 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "porca de metal": {
+    "carbono": "0.001 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
+  },
+  "tampa de pote de vidro de conserva": {
+    "carbono": "0.01 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
+  },
+  "tampa de garrafa de cerveja": {
+    "carbono": "0.005 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato e decoração."
+  },
+  "tampa de garrafa de refrigerante": {
+    "carbono": "0.005 kg CO₂/unidade",
+    "organico": false,
+    "reciclavel": true,
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Artesanato e decoração."
   },
   "lata de doce de leite": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vaso para mudas."
   },
   "lata de molho de tomate": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Porta-trecos e vaso para mudas."
   },
   "lata de azeite": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e vaso para mudas."
   },
   "lata de oleo de cozinha": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e vaso para mudas."
   },
   "peneira de metal": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "espatula de metal": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "frigideira de aco": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e reparo."
   },
   "panela de barro com tampa de metal": {
     "carbono": "1.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "milhares de anos"
+    "decomposicao": "milhares de anos",
+    "formas_de_reutilizacao": "Reuso e decoração."
   },
   "colher de pedreiro": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "enxada": {
     "carbono": "2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "pá de jardinagem": {
+  "pa de jardinagem": {
     "carbono": "0.5 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "rastelo": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "carcaça de motor de carro": {
+  "carcaca de motor de carro": {
     "carbono": "30 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "mais de 1.000 anos"
+    "decomposicao": "mais de 1.000 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "tubo de aco": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso na construção."
   },
   "barra de ferro": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso na construção."
   },
   "chapa de zinco": {
     "carbono": "5 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reuso na construção."
   },
   "fio de cobre": {
     "carbono": "4 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "100 a 400 anos"
+    "decomposicao": "100 a 400 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
-  "fio de alumínio": {
+  "fio de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "anel de aco": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "pulseira de prata": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "colar de ouro": {
     "carbono": "0.01 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "brinco de prata": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "pingente de ouro": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "indefinido"
+    "decomposicao": "indefinido",
+    "formas_de_reutilizacao": "Reuso e derretimento."
   },
   "clipe de metal": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "grampo de cabelo de metal": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "alfinete de segurança": {
+  "alfinete de seguranca": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "chaveiro de aco": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "chave de casa": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "lata de petroleo": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "lata de querosene": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
-  "lata de óleo lubrificante": {
+  "lata de oleo lubrificante": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reciclagem."
   },
   "lata de tinta spray": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": false,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Descarte especializado."
   },
   "lata de refrigerante": {
     "carbono": "0.05 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e vaso para mudas."
   },
   "arame de cerca": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "fio de metal": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   },
   "prego de telhado": {
     "carbono": "0.005 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "parafuso de madeira": {
     "carbono": "0.001 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "chave de fenda": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "caneca de alumínio": {
+  "caneca de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "panela de alumínio": {
+  "panela de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "forma de bolo de alumínio": {
+  "forma de bolo de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
-  "bandeja de alumínio": {
+  "bandeja de aluminio": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Reuso."
   },
   "lata de suco": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e vaso para mudas."
   },
   "lata de cerveja": {
     "carbono": "9 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "200 a 400 anos"
-  },
-  "saco de cimento": {
-    "carbono": "0.5 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": false,
-    "decomposicao": "100 anos"
-  },
-  "chapa de aco": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tubo de metal": {
-    "carbono": "2.3 kg CO₂/kg",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampinha de garrafa": {
-    "carbono": "0.005 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
-  },
-  "tampinha de lata": {
-    "carbono": "0.002 kg CO₂/unidade",
-    "organico": false,
-    "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "200 a 400 anos",
+    "formas_de_reutilizacao": "Artesanato e vaso para mudas."
   },
   "esponja de aco": {
     "carbono": "0.1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Limpeza de grelhas e remoção de ferrugem."
   },
   "ferro de passar roupa": {
     "carbono": "1 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reparo e doação."
   },
   "tesoura de jardinagem": {
     "carbono": "0.2 kg CO₂/unidade",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e amolar."
   },
   "chapa de aco inoxidavel": {
     "carbono": "2.3 kg CO₂/kg",
     "organico": false,
     "reciclavel": true,
-    "decomposicao": "50 a 100 anos"
+    "decomposicao": "50 a 100 anos",
+    "formas_de_reutilizacao": "Reuso e artesanato."
   }
 }
