@@ -1,76 +1,92 @@
 import streamlit as st
 import pandas as pd
 import json
+import difflib
+import unicodedata
 
-# Lê o banco de dados do arquivo JSON
-with open("banco_dados.json", "r", encoding="utf-8") as f:
-    banco_dados = json.load(f)
+# ========= Utilidades =========
+def normalizar(s: str) -> str:
+    if not isinstance(s, str):
+        return ""
+    return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn').lower().strip()
 
-# Cria DataFrame para exibir tabela
+def mostrar_item(nome, dados):
+    st.subheader(f"🔎 {nome.capitalize()}")
+
+    c1, c2 = st.columns(2)
+    c1.info(f"**🌍 Emissão de carbono:** {dados['carbono']}")
+    c1.success(f"**🌿 Orgânico:** {'Sim' if dados['organico'] else 'Não'}")
+    c2.warning(f"**♻️ Reciclável:** {'Sim' if dados['reciclavel'] else 'Não'}")
+    c2.info(f"**⏳ Tempo de decomposição:** {dados['decomposicao']}")
+
+    try:
+        carbono_valor = float(dados['carbono'].split()[0].replace(",", "."))
+    except:
+        carbono_valor = 0.0
+
+    if carbono_valor <= 1.0:
+        impacto, cor, largura = "Baixo", "#03d5ff", 30
+    elif carbono_valor <= 3.0:
+        impacto, cor, largura = "Médio", "#32CD32", 60
+    else:
+        impacto, cor, largura = "Alto", "red", 90
+
+    st.markdown(f"**💥 Impacto ambiental estimado: {impacto}**")
+    st.markdown(
+        f"<div style='background:#e0e0e0;border-radius:5px;width:100%;height:20px;margin-bottom:20px;'>"
+        f"<div style='background:{cor};width:{largura}%;height:100%;border-radius:5px;'></div>"
+        f"</div>", unsafe_allow_html=True
+    )
+
+def resetar_selecao():
+    st.session_state.pop("selected_item", None)
+    st.session_state.pop("selectbox_choice", None)
+
+def aplicar_escolha():
+    st.session_state["selected_item"] = st.session_state.get("selectbox_choice")
+
+# ========= Dados =========
+try:
+    with open("banco_dados.json", "r", encoding="utf-8") as f:
+        banco_dados = json.load(f)
+except FileNotFoundError:
+    st.error("Arquivo 'banco_dados.json' não encontrado.")
+    st.stop()
+
 df = pd.DataFrame.from_dict(banco_dados, orient="index")
+norm_to_original = {normalizar(k): k for k in banco_dados.keys()}
+todas_norm = list(norm_to_original.keys())
 
-# Título principal
+# ========= UI =========
 st.title("🌱 Verificador de Impacto Ambiental")
-st.markdown("Consulte o impacto ambiental de materiais de forma rápida e visual.")
+st.markdown("Digite um material, escolha um parecido (se necessário) e veja os dados.")
 
-# Seção de seleção e entrada
-with st.container():
-    col1, col2 = st.columns([2, 3])
-    with col1:
-        item_selecionado = st.selectbox("📋 Selecione um item existente:", df.index)
-        entrada = st.text_input("✏️ Ou digite outro item:")
+busca = st.text_input("✏️ Pesquisar item:", placeholder="Ex: plastico", key="search_text", on_change=resetar_selecao)
 
-    with col2:
-        # Define o item a consultar
-        item = entrada.strip().lower() if entrada else item_selecionado.lower()
+if st.session_state.get("selected_item"):
+    nome = st.session_state["selected_item"]
+    if nome in banco_dados:
+        mostrar_item(nome, banco_dados[nome])
+    else:
+        st.warning("⚠️ Item selecionado não encontrado.")
+elif busca:
+    busca_norm = normalizar(busca)
+    if busca_norm in norm_to_original:
+        nome = norm_to_original[busca_norm]
+        st.session_state["selected_item"] = nome
+        mostrar_item(nome, banco_dados[nome])
+    else:
+        similares_norm = difflib.get_close_matches(busca_norm, todas_norm, n=8, cutoff=0.3)
+        substring_norm = [n for n in todas_norm if busca_norm in n]
+        candidatos_norm = list(dict.fromkeys(substring_norm + similares_norm))
+        candidatos = [norm_to_original[n] for n in candidatos_norm]
 
-        if item:
-            if item in banco_dados:
-                dados = banco_dados[item]
+        if candidatos:
+            st.selectbox("Itens similares:", options=candidatos, key="selectbox_choice", on_change=aplicar_escolha)
+            if st.session_state.get("selected_item"):
+                mostrar_item(st.session_state["selected_item"], banco_dados[st.session_state["selected_item"]])
+        else:
+            st.warning("⚠️ Nenhum item parecido encontrado.")
 
-                # Informações em container separado
-                with st.container():
-                    st.subheader(f"🔎 {item.capitalize()}")
-
-                    # Colunas para organizar dados
-                    c1, c2 = st.columns(2)
-                    c1.info(f"**🌍 Emissão de carbono:** {dados['carbono']}")
-                    c1.success(f"**🌿 Orgânico:** {'Sim' if dados['organico'] else 'Não'}")
-                    c2.warning(f"**♻️ Reciclável:** {'Sim' if dados['reciclavel'] else 'Não'}")
-                    c2.info(f"**⏳ Tempo de decomposição:** {dados['decomposicao']}")
-
-                    # Converte carbono para float e define impacto
-                    carbono_valor = float(dados['carbono'].split()[0].replace(",", "."))
-
-                    if carbono_valor <= 1.0:
-                        impacto_texto = "Baixo"
-                        cor = "#03d5ff"  # azul
-                        largura = 30
-                    elif carbono_valor <= 3.0:
-                        impacto_texto = "Médio"
-                        cor = "#32CD32"  # verde-limão
-                        largura = 60
-                    else:
-                        impacto_texto = "Alto"
-                        cor = "red"
-                        largura = 90
-
-                    # Exibe texto do impacto
-                    st.markdown(f"**💥 Impacto ambiental estimado: {impacto_texto}**")
-
-                    # Barra de impacto colorida (HTML)
-                    barra_html = f"""
-                    <div style='background-color: #e0e0e0; border-radius: 5px; width: 100%; height: 20px; margin-bottom:20px;'>
-                        <div style='background-color: {cor}; width: {largura}%; height: 100%; border-radius: 5px;'>
-                        </div>
-                    </div>
-                    """
-                    st.markdown(barra_html, unsafe_allow_html=True)
-                    st.write("")  # espaçamento extra
-
-            else:
-                st.warning("⚠️ Item não encontrado no banco de dados.")
-
-# Exibe tabela completa do banco dentro de um expander (inicialmente oculta)
 with st.expander("📊 Mostrar base de dados completa"):
     st.dataframe(df)
