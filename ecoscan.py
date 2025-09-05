@@ -30,7 +30,7 @@ def mostrar_item(nome, dados, df):
 
     # Barra de impacto
     if carbono_valor <= 1.0:
-        impacto, cor, largura = "Baixo", "#03d5ff", 30
+        impacto, cor, largura = "Baixo", "#00FF00", 30
     elif carbono_valor <= 3.0:
         impacto, cor, largura = "Médio", "#FFFF00", 60
     else:
