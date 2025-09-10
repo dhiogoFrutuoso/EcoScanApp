@@ -72,14 +72,14 @@ def mostrar_item(nome, dados):
 img_file = st.camera_input("📷 Tire uma foto do objeto")
 
 if img_file:
-    st.image(img_file, caption="Imagem capturada", use_column_width=True)
+    st.image(img_file, caption="Imagem capturada", use_container_width=True) # Alteração aqui
 
     # Converte a imagem em base64
     bytes_data = img_file.getvalue()
     img_base64 = base64.b64encode(bytes_data).decode()
 
     # Cliente OpenAI
-    client = OpenAI()
+    client = OpenAI(api_key="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")
 
     with st.spinner("🔎 Analisando imagem..."):
         response = client.chat.completions.create(
