@@ -1,26 +1,25 @@
 import streamlit as st
-import pandas as pd
+from openai import OpenAI
+import base64
 import json
-import difflib
-import unicodedata
 
-# ========= Utilidades =========
-def normalizar(s: str) -> str:
-    if not isinstance(s, str):
-        return ""
-    return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn').lower().strip()
+# ========= Configuração =========
+st.set_page_config(page_title="🌱 Verificador de Impacto Ambiental", page_icon="🌱")
+st.title("🌱 Verificador de Impacto Ambiental")
+st.markdown("Tire uma foto do material e veja sua análise ambiental.")
 
-def mostrar_item(nome, dados, df):
+# ========= Função para exibir o item =========
+def mostrar_item(nome, dados):
     st.subheader(f"🔎 {nome.capitalize()}")
 
     c1, c2 = st.columns(2)
-    c1.info(f"**🌍 Emissão de carbono na produção ou queima:** {dados['carbono']}")
-    c1.success(f"**🌿 Orgânico:** {'Sim' if dados['organico'] else 'Não'}")
-    c2.warning(f"**♻️ Reciclável:** {'Sim' if dados['reciclavel'] else 'Não'}")
-    c2.info(f"**⏳ Tempo de decomposição:** {dados['decomposicao']}")
+    c1.info(f"**🌍 Emissão de carbono na produção ou queima:** {dados.get('carbono','Não informado')}")
+    c1.success(f"**🌿 Orgânico:** {'Sim' if dados.get('organico') else 'Não'}")
+    c2.warning(f"**♻️ Reciclável:** {'Sim' if dados.get('reciclavel') else 'Não'}")
+    c2.info(f"**⏳ Tempo de decomposição:** {dados.get('decomposicao','Não informado')}")
 
     try:
-        carbono_valor = float(dados['carbono'].split()[0].replace(",", "."))
+        carbono_valor = float(dados["carbono"].split()[0].replace(",", "."))
     except:
         carbono_valor = 0.0
 
@@ -45,9 +44,9 @@ def mostrar_item(nome, dados, df):
 
     # ========= Analogias palpáveis =========
     if impacto_total > 0:
-        arvores = impacto_total * 5      # 1 kg CO2 ~ absorção de 5 árvores/ano
-        km_carro = impacto_total * 5     # 1 kg CO2 ~ 5 km rodados de carro
-        gelo = impacto_total * 0.5       # efeito simbólico
+        arvores = impacto_total * 5
+        km_carro = impacto_total * 5
+        gelo = impacto_total * 0.5
 
         st.markdown(f"### 🔥 Emissão total de {impacto_total:.2f} kg CO₂ na atmosfera: ")
         st.write(f"🌳 Seriam necessárias **{arvores:.0f} árvores** para absorver essa emissão em um ano.")
@@ -56,87 +55,54 @@ def mostrar_item(nome, dados, df):
 
     # ========= Selo de classificação =========
     selo = ""
-    if impacto == "Baixo" and dados['reciclavel']:
+    if impacto == "Baixo" and dados.get("reciclavel"):
         selo = "♻️ Sustentável"
-    elif impacto == "Alto" and not dados['reciclavel']:
+    elif impacto == "Alto" and not dados.get("reciclavel"):
         selo = "⚠️ Crítico"
-    elif dados['organico']:
+    elif dados.get("organico"):
         selo = "🌱 Neutro"
     if selo:
         st.success(f"**🏷️ Classificação: {selo}**")
 
-    # ========= Comparação com média =========
-    try:
-        medias = df["carbono"].str.split().str[0].str.replace(",", ".").astype(float).mean()
-    except:
-        medias = 0
-
-    if carbono_valor > medias:
-        st.info(f"⚠️ Este item emite **mais CO₂ que a média da base** ({medias:.2f} kg CO₂/kg).")
-    else:
-        st.info(f"✅ Este item emite **menos CO₂ que a média da base** ({medias:.2f} kg CO₂/kg).")
-
     # ========= Formas de reutilização =========
     st.markdown("### **♻** Formas de reutilização:")
-    st.success(f"♻  {dados['formas_de_reutilizacao']}")
+    st.success(f"♻  {dados.get('formas_de_reutilizacao','Não informado')}")
 
-def resetar_selecao():
-    st.session_state.pop("selected_item", None)
-    st.session_state.pop("selectbox_choice", None)
+# ========= Captura da câmera =========
+img_file = st.camera_input("📷 Tire uma foto do objeto")
 
-def aplicar_escolha():
-    escolha = st.session_state.get("selectbox_choice")
-    if escolha and escolha != "-- Selecione um item --":
-        st.session_state["selected_item"] = escolha
+if img_file:
+    st.image(img_file, caption="Imagem capturada", use_column_width=True)
 
-# ========= Dados =========
-try:
-    with open("banco_dados.json", "r", encoding="utf-8") as f:
-        banco_dados = json.load(f)
-except FileNotFoundError:
-    st.error("Arquivo 'banco_dados.json' não encontrado.")
-    st.stop()
+    # Converte a imagem em base64
+    bytes_data = img_file.getvalue()
+    img_base64 = base64.b64encode(bytes_data).decode()
 
-df = pd.DataFrame.from_dict(banco_dados, orient="index")
-norm_to_original = {normalizar(k): k for k in banco_dados.keys()}
-todas_norm = list(norm_to_original.keys())
+    # Cliente OpenAI
+    client = OpenAI()
 
-# ========= UI =========
-st.title("🌱 Verificador de Impacto Ambiental")
-st.markdown("Digite um material, escolha um parecido (se necessário) e veja os dados.")
-
-busca = st.text_input("✏️ Pesquisar item:", placeholder="Ex: plastico", key="search_text", on_change=resetar_selecao)
-
-if st.session_state.get("selected_item"):
-    nome = st.session_state["selected_item"]
-    if nome in banco_dados:
-        mostrar_item(nome, banco_dados[nome], df)
-    else:
-        st.warning("⚠️ Item selecionado não encontrado.")
-elif busca:
-    busca_norm = normalizar(busca)
-
-    # sempre sugere lista, nunca seleciona automaticamente
-    similares_norm = difflib.get_close_matches(busca_norm, todas_norm, n=8, cutoff=0.3)
-    substring_norm = [n for n in todas_norm if busca_norm in n]
-    candidatos_norm = list(dict.fromkeys(substring_norm + similares_norm))
-    candidatos = [norm_to_original[n] for n in candidatos_norm]
-
-    if candidatos:
-        st.selectbox(
-            "Itens encontrados:",
-            options=["-- Selecione um item --"] + candidatos,
-            key="selectbox_choice",
-            on_change=aplicar_escolha
+    with st.spinner("🔎 Analisando imagem..."):
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "text", "text": (
+                            "Analise a imagem e retorne em JSON com os campos: "
+                            "carbono (em kg CO₂/kg), organico (true/false), reciclavel (true/false), "
+                            "decomposicao (texto), formas_de_reutilizacao (texto), "
+                            "e nome (nome do material identificado)."
+                        )},
+                        {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img_base64}"}}
+                    ],
+                }
+            ],
         )
-        if st.session_state.get("selected_item"):
-            mostrar_item(
-                st.session_state["selected_item"],
-                banco_dados[st.session_state["selected_item"]],
-                df
-            )
-    else:
-        st.warning("⚠️ Nenhum item parecido encontrado.")
 
-with st.expander("📊 Mostrar base de dados completa"):
-    st.dataframe(df)
+    try:
+        dados = json.loads(response.choices[0].message.content)
+        mostrar_item(dados.get("nome","Material"), dados)
+    except Exception as e:
+        st.error("❌ Erro ao interpretar a resposta do modelo. Conteúdo retornado:")
+        st.write(response.choices[0].message.content)
