@@ -1,3 +1,5 @@
+//Database in json used in the old version of the app, no longer needed.
+
 {
   "plastico": {
     "carbono": "6 kg CO₂/kg",
