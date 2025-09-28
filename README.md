@@ -61,20 +61,32 @@ from ecoscan import EcoScan
 ```
 
 # Initialize the application
+
+```python
 app = EcoScan()
+```
 
 # Input environmental data
+
+```python
 data = {
     "energy_consumption": 1500,
     "waste_generated": 200,
     "carbon_emission": 120
 }
+```
 
 # Analyze impact
+
+```python
 results = app.analyze(data)
+```
 
 # Display results
+
+```python
 print(results)
+```
 
 # Mobile
 1. Open the EcoScanApp APK.
