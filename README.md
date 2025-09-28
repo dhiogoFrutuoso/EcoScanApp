@@ -118,19 +118,19 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Contact
 Developer: Dhiogo Frutuoso
 
-GitHub: https://github.com/dhiogoFrutuoso
+- GitHub: https://github.com/dhiogoFrutuoso
 
-Email: (add your email here)
+- Email: (add your email here)
 
 # Badges Legend
-Python: Python version compatibility
+- Python: Python version compatibility
 
-License: Open source license
+- License: Open source license
 
-Platform: Supported platforms
+- Platform: Supported platforms
 
-Issues: Open issues on GitHub
+- Issues: Open issues on GitHub
 
-Forks: Number of forks
+- Forks: Number of forks
 
-Stars: Number of stars
+- Stars: Number of stars
