@@ -1,136 +1,80 @@
-# EcoScanApp
+# 🌱 EcoScanApp
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-orange)
-![Issues](https://img.shields.io/github/issues/dhiogoFrutuoso/EcoScanApp)
-![Forks](https://img.shields.io/github/forks/dhiogoFrutuoso/EcoScanApp)
-![Stars](https://img.shields.io/github/stars/dhiogoFrutuoso/EcoScanApp)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-GPT--4o-orange?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge" alt="UI">
+  <img src="https://img.shields.io/badge/Focus-Sustainability-green?style=for-the-badge" alt="Focus">
+</p>
 
-EcoScanApp is a cross-platform application designed to analyze environmental impacts using Python, Kodular, and OpenAI modules. It provides users with insights into sustainability metrics and environmental data on both desktop and mobile devices.
-
----
-
-## Features
-
-- **Environmental Impact Analysis**: Processes and analyzes environmental data using Python scripts.
-- **Cross-Platform Support**: Accessible on both desktop and mobile devices.
-- **OpenAI Integration**: Leverages OpenAI modules for advanced insights and data interpretation.
-- **User-Friendly Interface**: Mobile interface developed with Kodular for intuitive usage.
-- **Interactive Data Input**: Users can input their environmental data and instantly get analysis results.
-- **Customizable Reports**: Outputs can be tailored to display carbon emissions, energy usage, and waste management metrics.
+<p align="center">
+  <b>Computer Vision | Python | OpenAI API | Streamlit | Environmental Impact | Data Analysis | Sustainable Tech</b>
+</p>
 
 ---
 
-## Installation
+### 🚀 About the Project
 
-### Desktop (Python)
+**EcoScanApp** is an intelligent solution designed to bridge the gap between technology and environmental consciousness. Using cutting-edge **GPT-4o Vision** models, the app identifies objects in real-time to provide detailed ecological metrics, helping users make informed decisions about waste and consumption.
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/dhiogoFrutuoso/EcoScanApp.git](https://github.com/dhiogoFrutuoso/EcoScanApp.git)
-    cd EcoScanApp
-    ```
-
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  Run the application:
-    ```bash
-    python ecoscan.py
-    ```
-
-### Mobile (Kodular)
-
-1.  **Import the project into Kodular**:
-    - Download the `.aia` file from the repository.
-    - Upload it to your Kodular account.
-
-2.  **Build and install the APK** on your Android device.
+* **🔍 Smart Recognition:** Uses advanced AI to detect materials and products via camera or image upload.
+* **📊 Quantitative Analysis:** Calculates carbon footprints ($CO_2$ emissions) and estimates decomposition time.
+* **💡 Actionable Insights:** Provides creative reuse suggestions and clarifies recyclability status instantly.
 
 ---
 
-## Usage Examples
+### 📈 Environmental Metrics & Features
 
-### Desktop
+| Metric | Description |
+| :--- | :--- |
+| **Carbon Footprint** | 🌍 Precise $CO_2$ calculation based on material type and quantity. |
+| **Impact Bar** | 🚦 Visual feedback (Low/Medium/High) for immediate environmental assessment. |
+| **Eco-Analogies** | 🌳 Converts data into relatable stats (e.g., equivalent in trees or car emissions). |
+| **Circular Economy** | ♻️ Direct suggestions for repurposing and intelligent waste management. |
 
-```python
-from ecoscan import EcoScan
-```
+---
 
-# Initialize the application
+### 🛠️ Technology Stack
 
-```python
-app = EcoScan()
-```
+<br>
 
-# Input environmental data
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="Streamlit" />
+      <br><b>Streamlit</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" alt="OpenAI" />
+      <br><b>GPT-4o</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br><b>Git</b>
+    </td>
+  </tr>
+</table>
 
-```python
-data = {
-    "energy_consumption": 1500,
-    "waste_generated": 200,
-    "carbon_emission": 120
-}
-```
+---
 
-# Analyze impact
+### 📦 Setup & Execution
 
-```python
-results = app.analyze(data)
-```
+1. **Clone & Enter:**
+   ```bash
+   git clone [https://github.com/dhiogoFrutuoso/EcoScanApp.git](https://github.com/dhiogoFrutuoso/EcoScanApp.git) && cd EcoScanApp
 
-# Display results
+2. **API Configuration:**
+    ```bash
+   Create a .env file with your OPENAI_API_KEY=your_key_here.
 
-```python
-print(results)
-```
+4. **Install & Run:**
 
-# Mobile
-1. Open the EcoScanApp APK.
-
-2. Enter environmental data in the input fields.
-
-3. Tap Analyze to get the sustainability report.
-
-# Contributing
-We welcome contributions! To contribute:
-
-1. Fork the repository.
-
-2. Create a new branch (git checkout -b feature-name).
-
-3. Make your changes.
-
-4. Commit your changes (git commit -m "Add feature").
-
-5. Push to the branch (git push origin feature-name).
-
-6. Open a Pull Request.
-
-Please follow GitHub's best practices for contributing.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Contact
-Developer: Dhiogo Frutuoso
-
-- GitHub: https://github.com/dhiogoFrutuoso
-
-- Email: (add your email here)
-
-# Badges Legend
-- Python: Python version compatibility
-
-- License: Open source license
-
-- Platform: Supported platforms
-
-- Issues: Open issues on GitHub
-
-- Forks: Number of forks
-
-- Stars: Number of stars
+    ```Bash
+    pip install streamlit openai python-dotenv
+    streamlit run ecoscan.py
+<p align="center">
+<i>"Technology at the service of citizenship and the planet."</i>
+</p>
