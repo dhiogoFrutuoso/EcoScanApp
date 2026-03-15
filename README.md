@@ -1,42 +1,39 @@
 # 🌱 EcoScanApp
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-GPT--4o-orange?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/IA-GPT--4o-orange?style=for-the-badge" alt="IA">
   <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge" alt="UI">
-  <img src="https://img.shields.io/badge/Focus-Sustainability-green?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Foco-Sustentabilidade-green?style=for-the-badge" alt="Foco">
 </p>
-
 <p align="center">
-  <b>Computer Vision | Python | OpenAI API | Streamlit | Environmental Impact | Data Analysis | Sustainable Tech</b>
+  <b>Visão Computacional | Python | OpenAI API | Streamlit | Impacto Ambiental | Análise de Dados | Tecnologia Sustentável</b>
 </p>
 
 ---
 
-### 🚀 About the Project
+### 🚀 Sobre o Projeto
 
-**EcoScanApp** is an intelligent solution designed to bridge the gap between technology and environmental consciousness. Using cutting-edge **GPT-4o Vision** models, the app identifies objects in real-time to provide detailed ecological metrics, helping users make informed decisions about waste and consumption.
+**EcoScanApp** é uma solução inteligente criada para aproximar tecnologia e consciência ambiental. Utilizando modelos de ponta de **Visão GPT-4o**, o app identifica objetos em tempo real para fornecer métricas ecológicas detalhadas, ajudando os usuários a tomar decisões mais conscientes sobre resíduos e consumo.
 
-* **🔍 Smart Recognition:** Uses advanced AI to detect materials and products via camera or image upload.
-* **📊 Quantitative Analysis:** Calculates carbon footprints ($CO_2$ emissions) and estimates decomposition time.
-* **💡 Actionable Insights:** Provides creative reuse suggestions and clarifies recyclability status instantly.
+* **🔍 Reconhecimento Inteligente:** Usa IA avançada para detectar materiais e produtos via câmera ou upload de imagem.
+* **📊 Análise Quantitativa:** Calcula a pegada de carbono (emissões de $CO_2$) e estima o tempo de decomposição.
+* **💡 Insights Práticos:** Sugere formas criativas de reutilização e informa instantaneamente sobre a reciclabilidade do item.
 
 ---
 
-### 📈 Environmental Metrics & Features
+### 📈 Métricas Ambientais & Funcionalidades
 
-| Metric | Description |
+| Métrica | Descrição |
 | :--- | :--- |
-| **Carbon Footprint** | 🌍 Precise $CO_2$ calculation based on material type and quantity. |
-| **Impact Bar** | 🚦 Visual feedback (Low/Medium/High) for immediate environmental assessment. |
-| **Eco-Analogies** | 🌳 Converts data into relatable stats (e.g., equivalent in trees or car emissions). |
-| **Circular Economy** | ♻️ Direct suggestions for repurposing and intelligent waste management. |
+| **Pegada de Carbono** | 🌍 Cálculo preciso de $CO_2$ com base no tipo e quantidade do material. |
+| **Barra de Impacto** | 🚦 Feedback visual (Baixo/Médio/Alto) para avaliação ambiental imediata. |
+| **Eco-Analogias** | 🌳 Converte dados em estatísticas compreensíveis (ex: equivalente em árvores ou emissões de carros). |
+| **Economia Circular** | ♻️ Sugestões diretas de reaproveitamento e gestão inteligente de resíduos. |
 
 ---
 
-### 🛠️ Technology Stack
+### 🛠️ Tecnologias Utilizadas
 
 <br>
-
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -60,21 +57,25 @@
 
 ---
 
-### 📦 Setup & Execution
+### 📦 Instalação & Execução
 
-1. **Clone & Enter:**
+1. **Clone & Entre:**
    ```bash
-   git clone [https://github.com/dhiogoFrutuoso/EcoScanApp.git](https://github.com/dhiogoFrutuoso/EcoScanApp.git) && cd EcoScanApp
+   git clone https://github.com/dhiogoFrutuoso/EcoScanApp.git && cd EcoScanApp
+   ```
 
-2. **API Configuration:**
-    ```bash
-   Create a .env file with your OPENAI_API_KEY=your_key_here.
+2. **Configure a API:**
+   ```bash
+   # Crie um arquivo .env com sua chave
+   OPENAI_API_KEY=sua_chave_aqui
+   ```
 
-4. **Install & Run:**
+3. **Instale & Execute:**
+   ```bash
+   pip install streamlit openai python-dotenv
+   streamlit run ecoscan.py
+   ```
 
-    ```Bash
-    pip install streamlit openai python-dotenv
-    streamlit run ecoscan.py
 <p align="center">
-<i>"Technology at the service of citizenship and the planet."</i>
+<i>"Tecnologia a serviço da cidadania e do planeta."</i>
 </p>
